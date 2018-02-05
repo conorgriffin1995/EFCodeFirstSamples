@@ -1,0 +1,61 @@
+C:\Gary\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe.config
+C:\Gary\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe
+C:\Gary\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.pdb
+C:\Gary\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.dll
+C:\Gary\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Gary\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.xml
+C:\Gary\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Gary\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.exe
+C:\Gary\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.pdb
+M:\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe.config
+M:\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.exe
+M:\EAD\LINQ and Entity Framework\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.pdb
+C:\Users\gclynch\OneDrive\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe.config
+C:\Users\gclynch\OneDrive\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.exe
+C:\Users\gclynch\OneDrive\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.pdb
+C:\Users\gclynch\OneDrive\EFCF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe.config
+C:\Users\gclynch\OneDrive\EFCF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.exe
+C:\Users\gclynch\OneDrive\EFCF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.pdb
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe.config
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.exe
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.pdb
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe.config
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.exe
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.pdb
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.pdb
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.csprojResolveAssemblyReference.cache
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe.config
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.exe
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.pdb
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.pdb
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.dll
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.xml
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\GC\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.csprojResolveAssemblyReference.cache
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe.config
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.exe
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.pdb
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.pdb
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.dll
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.xml
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\EAD\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.csprojResolveAssemblyReference.cache
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe.config
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.exe
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.pdb
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.exe
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EFCollegeDemoCF.pdb
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.dll
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.xml
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Gary\Entity Framework CF\EFCollegeDemoCF\EFCollegeDemoCF\obj\Debug\EFCollegeDemoCF.csprojResolveAssemblyReference.cache

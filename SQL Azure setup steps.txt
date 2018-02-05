@@ -1,0 +1,24 @@
+1. Create a SQL Azure database
+
+name: e.g. demo
+pricing tier: standard S0 10 DTUs
+server: create a new SQL Database Server
+
+2. SQL Database server settings
+
+server name: e.g. garyclynchsqlserver.database.windows.net
+server admin login name: e.g. gclynch
+password: e.g. Tallaght1
+location North Europe (i.e. Dublin)
+
+
+note: 
+
+see ADO.Net connection string for use in application config file
+ensure firewall settings allow access to IP address where app accessing the database is running
+
+
+
+
+
+

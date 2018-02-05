@@ -1,0 +1,52 @@
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe.config
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.exe
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.pdb
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.pdb
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EntityFramework.dll
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EntityFramework.xml
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gclynch\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\obj\Debug\EFStudent2DemoCF.csprojResolveAssemblyReference.cache
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe.config
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.pdb
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.exe
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.pdb
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCF\EFStudentDemoCF\obj\Debug\EFStudent2DemoCF.csprojResolveAssemblyReference.cache
+C:\GC\EFStudent2DemoCF\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe.config
+C:\GC\EFStudent2DemoCF\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.exe
+C:\GC\EFStudent2DemoCF\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.pdb
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe.config
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.exe
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.pdb
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.pdb
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudent2DemoCF.csprojResolveAssemblyReference.cache
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.Migrations.InitialCreate.resources
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudent2DemoCF.csproj.GenerateResource.Cache
+C:\Users\gary.LAB040-17\OneDrive\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.Migrations.MobileNoAdded.resources
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe.config
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.exe
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.pdb
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.pdb
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EntityFramework.dll
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EntityFramework.xml
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudent2DemoCF.csprojResolveAssemblyReference.cache
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.Migrations.InitialCreate.resources
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.Migrations.MobileNoAdded.resources
+C:\Gary\Entity Framework CF\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudent2DemoCF.csproj.GenerateResource.Cache
+C:\GC\EFStudent2DemoCFFluent\EFStudentDemoCF\bin\Debug\EFStudentDemoCF.exe.config
+C:\GC\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.exe
+C:\GC\EFStudent2DemoCFFluent\EFStudentDemoCF\obj\Debug\EFStudentDemoCF.pdb
